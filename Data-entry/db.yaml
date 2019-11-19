@@ -1,0 +1,4 @@
+mysql_host: 'input an ip or localhost(127.0.0.1)'
+mysql_user: 'MySql_UserName'
+mysql_password: ''
+mysql_db: 'Database name'
